@@ -1,6 +1,6 @@
                                                   Fake News Detection
 
-# PROJECT SUMMARY
+### PROJECT SUMMARY
 
 **Project Title:**  Fake News Detection
 
