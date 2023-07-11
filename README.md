@@ -1,5 +1,5 @@
 # Fake News Detection
-                                                        **PROJECT SUMMARY**
+                                                        PROJECT SUMMARY
 **Project Title:**  Fake News Detection
 
 **Background:** Fake news is defined as the intentional dissemination of false or misleading information as news.  Fake news has started to be debated and become an issue in recent years with the rise of social media platforms such as Facebook and Twitter. People may unknowingly propagate fake news, resulting in significant social and political consequences. It is virtually impossible to prevent the spread of fake news. Thus, it is crucial to recognize fake news and differentiate it from real news stories at the early stages.
