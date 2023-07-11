@@ -13,5 +13,5 @@
      YouTube videos
 1-	Short Version: https://youtu.be/Es05Wf4DX88
 2-	Long Version: https://youtu.be/cNMvTUKOHJ8
-![image](https://github.com/arzuisiktopbas/Fake-News-Detection/assets/72288454/a7c91108-7fa8-4504-87df-92cf282adc45)
+
 
