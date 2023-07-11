@@ -1,4 +1,4 @@
-                                                  Fake News Detection
+                                          Fake News Detection
 
 ### PROJECT SUMMARY
 
@@ -20,7 +20,7 @@
 
 **Results:** The results of the Fake news detection classifier model have been evaluated using accuracy metrics. The model achieved 99.87% accuracy.
 
-                                                         YouTube videos
+                                               YouTube videos
 1-	Short Version: https://youtu.be/Es05Wf4DX88
 
 2-	Long Version: https://youtu.be/cNMvTUKOHJ8
